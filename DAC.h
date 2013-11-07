@@ -2,6 +2,7 @@
 #define DAC_h
 
 #include "JLib.h"
+#include "GPTM.h"
 #include "SSISerialComms.h"
 #include "SSI.h"
 
